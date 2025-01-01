@@ -1,23 +1,21 @@
-### Generative-AI-Nanodegree
+## Courses and Projects
 
-This repository contains projects and code developed during my Generative AI Nanodegree program at Udacity. The coursework covered various aspects of generative artificial intelligence, providing hands-on experience with cutting-edge technologies and techniques.
+### Course 1: Introduction to Generative AI
+- **Description**: Learn the fundamentals of generative models, including GANs and VAEs.
+- **Project**: Build a simple generative model to create images or text based on a given dataset.
 
-##### Key Topics Covered:
-Natural Language Processing (NLP)
-Large Language Models (LLMs)
-Prompt Engineering
-Image Generation
-AI Ethics and Responsible AI
+### Course 2: Fine-Tuning Pre-trained Models
+- **Description**: Focus on fine-tuning pre-trained models for specific tasks using Hugging Face's Transformers library.
+- **Project**: Apply lightweight fine-tuning to a foundation model, loading a pre-trained model, fine-tuning it on a specific dataset, and evaluating its performance.
 
-#### Repository Contents:
-Project implementations
-Code examples
-Jupyter notebooks
-Documentation
-This collection showcases the skills and knowledge acquired throughout the program, demonstrating practical applications of generative AI concepts.
+### Course 3: Advanced Techniques in Generative AI
+- **Description**: Explore advanced techniques such as reinforcement learning from human feedback (RLHF) and prompt engineering.
+- **Project**: Create a generative application that utilizes advanced techniques learned in the course.
 
-#### Note to Visitors:
-Feel free to explore the code and projects. If you have any questions or would like to discuss the work, please open an issue or reach out through GitHub.
+### Course 4: Capstone Project
+- **Description**: Integrate everything learned in the program into a comprehensive project.
+- **Project**: Develop a complete generative AI application, showcasing your ability to innovate with generative models.
 
-#### Acknowledgments:
-Special thanks to Udacity and the instructors for providing an excellent learning experience in the field of Generative AI.
+## Certificate of Completion
+
+Upon completing the program, I received a certificate on [Generative AI Nanodegree Program](www.udacity.com/certificate/e/62441eec-80e6-11ef-a77d-53c351c89ee0)
