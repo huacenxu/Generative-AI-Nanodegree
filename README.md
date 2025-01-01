@@ -9,12 +9,12 @@
 - **Project**: Apply lightweight fine-tuning to a foundation model, loading a pre-trained model, fine-tuning it on a specific dataset, and evaluating its performance.
 
 ### Course 3: Advanced Techniques in Generative AI
-- **Description**: Explore advanced techniques such as reinforcement learning from human feedback (RLHF) and prompt engineering.
+- **Description**: Explore advanced techniques such as computer vision and prompt engineering.
 - **Project**: Create a generative application that utilizes advanced techniques learned in the course.
 
 ### Course 4: Capstone Project
 - **Description**: Integrate everything learned in the program into a comprehensive project.
-- **Project**: Develop a complete generative AI application, showcasing your ability to innovate with generative models.
+- **Project**: Develop a complete generative AI application, showcasing my ability to innovate with generative models.
 
 ## Certificate of Completion
 
