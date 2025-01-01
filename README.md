@@ -18,4 +18,4 @@
 
 ## Certificate of Completion
 
-Upon completing the program, I received a certificate on [Generative AI Nanodegree Program](www.udacity.com/certificate/e/62441eec-80e6-11ef-a77d-53c351c89ee0)
+Upon completing the program, I received a certificate on Generative AI Nanodegree Program. [View Certificate](https://www.udacity.com/certificate/e/62441eec-80e6-11ef-a77d-53c351c89ee0)
